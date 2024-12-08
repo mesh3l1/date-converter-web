@@ -1,10 +1,9 @@
 .App {
   min-height: 100vh;
-  background-color: #1E1E2E;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #CDD6F4;
+  background: linear-gradient(135deg, #1a1b4b 0%, #1E1E2E 100%);
   padding: 20px;
 }
 
