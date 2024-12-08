@@ -2,22 +2,14 @@
   "name": "date_converter_web",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "next": "12.3.4",
+    "cra-template": "1.2.0",
     "hijri-date": "^0.2.2",
     "moment-hijri": "^3.0.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
-  },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^1.0.1"
       "react-app/jest"
     ]
   },
