@@ -7,10 +7,10 @@
     "cra-template": "1.2.0",
     "hijri-date": "^0.2.2",
     "moment-hijri": "^3.0.0",
-     "react": "https://unpkg.com/react@16.14.0/umd/react.production.min.js",
-    "react-dom": "https://unpkg.com/react-dom@16.14.0/umd/react-dom.production.min.js",
-"react-scripts": "4.0.3",
-"web-vitals": "^2.1.4"
+        "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3",
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
